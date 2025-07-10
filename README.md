@@ -69,15 +69,10 @@ struct LoginView: View {
 
 🎨 Customization
 You can easily extend the component to support:
-
 Validation indicators
-
 Custom colors or font styles
-
 Icons on both sides
-
 Multiline input
-
 Let us know if you'd like examples for any of these.
 
 
@@ -99,7 +94,3 @@ Feel free to open an issue or submit a pull request!
 
 🔗 Author
 Made with ❤️ by Kiran Jadhav
-
-
-> Let me know if you'd like a `LICENSE` file or `.gitignore` too, or want to convert it into a Swift Package Manager library for reuse.
-
